@@ -1,4 +1,4 @@
-# Redd - A Modern Fullstack Reddit Clone 
+# Redd - A Modern Fullstack social media app
 
 Built with the Next.js App Router, TypeScript & Tailwind
 
